@@ -1,2 +1,2 @@
-The first repository
-for websites purposes only
+The first repository.
+For websites purposes only
