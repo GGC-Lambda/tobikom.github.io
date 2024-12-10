@@ -1,0 +1,25 @@
+  
+  body {background: lightgray; font-family: Comic Sans MS;}
+  p {color: dimgray;}
+  h1, h2, h3, table, dd{color: slategrey;}
+  
+  
+  .button4 {
+  background-color: white;
+  color: lightgray;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover {background-color: #e7e7e7;}
+
+.button5 {
+  background-color: white;
+  color: slategrey;
+  border: 2px solid slategrey;
+}
+
+.button5:hover {
+  background-color: #555555;
+  color: white;
+  
+ 
