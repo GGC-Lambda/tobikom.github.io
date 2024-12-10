@@ -1,0 +1,13 @@
+body {
+  background-color: Tomato;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-family: Courier New;
+  font-size: 22px;
+}
